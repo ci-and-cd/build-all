@@ -1,0 +1,33 @@
+[submodule "maven-build"]
+	path = maven-build
+	url = git@github.com:ci-and-cd/maven-build
+[submodule "maven-build-java8"]
+	path = maven-build-java8
+	url = git@github.com:ci-and-cd/maven-build-java8
+[submodule "maven-build-java9"]
+	path = maven-build-java9
+	url = git@github.com:ci-and-cd/maven-build-java9
+[submodule "maven-build-opts-internal"]
+	path = maven-build-opts-internal
+	url = git@github.com:ci-and-cd/maven-build-opts-internal
+[submodule "maven-build-opts-local"]
+	path = maven-build-opts-local
+	url = git@github.com:ci-and-cd/maven-build-opts-local
+[submodule "maven-build-opts-opensource"]
+	path = maven-build-opts-opensource
+	url = git@github.com:ci-and-cd/maven-build-opts-opensource
+[submodule "maven-settings-decoder"]
+	path = maven-settings-decoder
+	url = git@github.com:ci-and-cd/maven-settings-decoder
+[submodule "wagon-maven-plugin"]
+	path = wagon-maven-plugin
+	url = git@github.com:ci-and-cd/wagon-maven-plugin.git
+[submodule "maven-plugins"]
+	path = maven-plugins
+	url = git@github.com:ci-and-cd/maven-plugins.git
+[submodule "inspect-appveyor-and-travisci"]
+	path = inspect-appveyor-and-travisci
+	url = git@github.com:ci-and-cd/inspect-appveyor-and-travisci.git
+[submodule "deps-spring-boot"]
+	path = deps-spring-boot
+	url = git@github.com:ci-and-cd/deps-spring-boot.git
