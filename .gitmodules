@@ -31,3 +31,6 @@
 [submodule "deps-spring-boot"]
 	path = deps-spring-boot
 	url = git@github.com:ci-and-cd/deps-spring-boot.git
+[submodule "maven-build-java10"]
+	path = maven-build-java10
+	url = git@github.com:ci-and-cd/maven-build-java10.git
