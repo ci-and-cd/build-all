@@ -31,3 +31,6 @@
 [submodule "maven-build-java10"]
 	path = maven-build-java10
 	url = git@github.com:ci-and-cd/maven-build-java10.git
+[submodule "ci-and-cd"]
+	path = ci-and-cd
+	url = git@github.com:ci-and-cd/ci-and-cd.git
