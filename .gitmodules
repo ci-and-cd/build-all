@@ -34,3 +34,6 @@
 [submodule "ci-and-cd"]
 	path = ci-and-cd
 	url = git@github.com:ci-and-cd/ci-and-cd.git
+[submodule "micro-service-maven-plugin"]
+	path = micro-service-maven-plugin
+	url = git@github.com:ci-and-cd/micro-service-maven-plugin.git
