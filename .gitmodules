@@ -37,3 +37,9 @@
 [submodule "micro-service-maven-plugin"]
 	path = micro-service-maven-plugin
 	url = git@github.com:ci-and-cd/micro-service-maven-plugin.git
+[submodule "chshawkn-forked-maven-build"]
+	path = chshawkn-forked-maven-build
+	url = git@github.com:chshawkn/maven-build.git
+[submodule "chshawkn-forked-inspect-appveyor-and-travisci"]
+	path = chshawkn-forked-inspect-appveyor-and-travisci
+	url = git@github.com:chshawkn/inspect-appveyor-and-travisci.git
