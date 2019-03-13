@@ -3,3 +3,5 @@
 *.iml
 
 .DS_Store
+
+/issue-of-grpc-core
