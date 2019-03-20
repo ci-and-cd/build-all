@@ -34,9 +34,3 @@
 [submodule "ci-and-cd"]
 	path = ci-and-cd
 	url = git@github.com:ci-and-cd/ci-and-cd.git
-[submodule "chshawkn-forked-maven-build"]
-	path = chshawkn-forked-maven-build
-	url = git@github.com:chshawkn/maven-build.git
-[submodule "chshawkn-forked-inspect-appveyor-and-travisci"]
-	path = chshawkn-forked-inspect-appveyor-and-travisci
-	url = git@github.com:chshawkn/inspect-appveyor-and-travisci.git
