@@ -34,3 +34,15 @@
 [submodule "ci-and-cd"]
 	path = ci-and-cd
 	url = git@github.com:ci-and-cd/ci-and-cd.git
+[submodule "profile-activator-extension"]
+	path = profile-activator-extension
+	url = git@github.com:ci-and-cd/profile-activator-extension.git
+	branch = forked
+[submodule "maven-build-extension"]
+	path = maven-build-extension
+	url = git@github.com:ci-and-cd/maven-build-extension.git
+	branch = develop
+[submodule "pom-manipulation-ext"]
+	path = pom-manipulation-ext
+	url = git@github.com:ci-and-cd/pom-manipulation-ext.git
+	branch = develop
