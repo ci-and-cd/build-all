@@ -46,3 +46,11 @@
 	path = pom-manipulation-ext
 	url = git@github.com:ci-and-cd/pom-manipulation-ext.git
 	branch = develop
+[submodule "maven-core-extensions"]
+	path = maven-core-extensions
+	url = git@github.com:ci-and-cd/maven-core-extensions.git
+	branch = develop
+[submodule "maven-build-opts-ossrh"]
+	path = maven-build-opts-ossrh
+	url = git@github.com:ci-and-cd/maven-build-opts-ossrh.git
+	branch = develop
