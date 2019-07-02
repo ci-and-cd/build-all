@@ -54,3 +54,9 @@
 	path = maven-build-opts-ossrh
 	url = git@github.com:ci-and-cd/maven-build-opts-ossrh.git
 	branch = develop
+[submodule "maven-wrapper"]
+	path = maven-wrapper
+	url = git@github.com:ci-and-cd/maven-wrapper.git
+[submodule "takari-maven-plugin"]
+	path = takari-maven-plugin
+	url = git@github.com:ci-and-cd/takari-maven-plugin.git
