@@ -38,17 +38,13 @@
 	path = profile-activator-extension
 	url = git@github.com:ci-and-cd/profile-activator-extension.git
 	branch = forked
-[submodule "maven-build-extension"]
-	path = maven-build-extension
-	url = git@github.com:ci-and-cd/maven-build-extension.git
-	branch = develop
 [submodule "pom-manipulation-ext"]
 	path = pom-manipulation-ext
 	url = git@github.com:ci-and-cd/pom-manipulation-ext.git
 	branch = develop
-[submodule "maven-core-extensions"]
-	path = maven-core-extensions
-	url = git@github.com:ci-and-cd/maven-core-extensions.git
+[submodule "topinfra-maven"]
+	path = topinfra-maven
+	url = git@github.com:ci-and-cd/topinfra-maven.git
 	branch = develop
 [submodule "maven-build-opts-ossrh"]
 	path = maven-build-opts-ossrh
@@ -60,3 +56,7 @@
 [submodule "takari-maven-plugin"]
 	path = takari-maven-plugin
 	url = git@github.com:ci-and-cd/takari-maven-plugin.git
+[submodule "homebrew-topinfra"]
+	path = homebrew-topinfra
+	url = git@github.com:ci-and-cd/homebrew-topinfra.git
+	branch = develop
