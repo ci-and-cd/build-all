@@ -8,7 +8,7 @@
 	path = maven-build-java9
 	url = git@github.com:ci-and-cd/maven-build-java9
 [submodule "maven-build-opts-local"]
-	path = maven-build-opts-private
+	path = maven-build-opts-local
 	url = git@github.com:ci-and-cd/maven-build-opts-local
 [submodule "maven-build-opts-opensource"]
 	path = maven-build-opts-opensource
