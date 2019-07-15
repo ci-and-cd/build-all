@@ -10,9 +10,6 @@
 [submodule "maven-build-opts-local"]
 	path = maven-build-opts-local
 	url = git@github.com:ci-and-cd/maven-build-opts-local
-[submodule "maven-build-opts-opensource"]
-	path = maven-build-opts-opensource
-	url = git@github.com:ci-and-cd/maven-build-opts-opensource
 [submodule "maven-settings-decoder"]
 	path = maven-settings-decoder
 	url = git@github.com:ci-and-cd/maven-settings-decoder
@@ -59,4 +56,12 @@
 [submodule "homebrew-topinfra"]
 	path = homebrew-topinfra
 	url = git@github.com:ci-and-cd/homebrew-topinfra.git
+	branch = develop
+[submodule "maven-build-opts-cnhome1"]
+	path = maven-build-opts-cnhome1
+	url = git@github.com:chshawkn/maven-build-opts-cnhome1.git
+	branch = develop
+[submodule "maven-build-opts-topinfra"]
+	path = maven-build-opts-topinfra
+	url = git@github.com:chshawkn/maven-build-opts-topinfra.git
 	branch = develop
