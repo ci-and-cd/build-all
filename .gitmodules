@@ -31,10 +31,6 @@
 [submodule "ci-and-cd"]
 	path = ci-and-cd
 	url = git@github.com:ci-and-cd/ci-and-cd.git
-[submodule "profile-activator-extension"]
-	path = profile-activator-extension
-	url = git@github.com:ci-and-cd/profile-activator-extension.git
-	branch = forked
 [submodule "pom-manipulation-ext"]
 	path = pom-manipulation-ext
 	url = git@github.com:ci-and-cd/pom-manipulation-ext.git
@@ -64,4 +60,16 @@
 [submodule "maven-build-opts-topinfra"]
 	path = maven-build-opts-topinfra
 	url = git@github.com:chshawkn/maven-build-opts-topinfra.git
+	branch = develop
+[submodule "dockerfile-maven"]
+	path = dockerfile-maven
+	url = git@github.com:ci-and-cd/dockerfile-maven.git
+	branch = develop
+[submodule "maven-wagon"]
+	path = maven-wagon
+	url = git@github.com:ci-and-cd/maven-wagon.git
+	branch = master
+[submodule "wagon-rsync-external"]
+	path = wagon-rsync-external
+	url = git@github.com:ci-and-cd/wagon-rsync-external.git
 	branch = develop
