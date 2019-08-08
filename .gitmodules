@@ -73,3 +73,7 @@
 	path = wagon-rsync-external
 	url = git@github.com:ci-and-cd/wagon-rsync-external.git
 	branch = develop
+[submodule "packer-ubuntu1804-ci"]
+	path = packer-ubuntu1804-ci
+	url = git@github.com:ci-and-cd/packer-ubuntu1804-ci.git
+	branch = develop
